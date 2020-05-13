@@ -8,4 +8,5 @@
 video{
     display: flex;
     margin: auto;
+    padding: 10px;
 }
